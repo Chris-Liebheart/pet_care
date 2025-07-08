@@ -1,0 +1,31 @@
+{
+  "ROLES": [
+    {
+      "id": "7249",
+      "name": "customer"
+    }
+  ],
+  "USERS": [
+    {
+      "id": "18b7",
+      "name": "trabajadores"
+    },
+    {
+      "id": "35bc",
+      "name": "usuarios"
+    },
+    {
+      "id": "6cbc",
+      "name": "maria",
+      "identification": "1111111",
+      "phone": "3161361990",
+      "pasword": "321"
+    }
+  ],
+  "PETS": [
+    {
+      "id": "f975",
+      "name": "mascotas"
+    }
+  ]
+}
