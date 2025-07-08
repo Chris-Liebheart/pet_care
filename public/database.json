@@ -7,25 +7,26 @@
   ],
   "USERS": [
     {
-      "id": "18b7",
-      "name": "trabajadores"
-    },
-    {
-      "id": "35bc",
-      "name": "usuarios"
-    },
-    {
       "id": "6cbc",
       "name": "maria",
       "identification": "1111111",
       "phone": "3161361990",
       "pasword": "321"
+    },
+    {
+      "id": "d53f",
+      "name": "jaime",
+      "identification": "1111111",
+      "phone": "3161361990",
+      "direccion": "calle 51",
+      "email": "messiembappe@gmail.com",
+      "contraseña": "0323",
+      "rolId": "7249"
     }
   ],
   "PETS": [
     {
-      "id": "f975",
-      "name": "mascotas"
+      
     }
   ]
 }
